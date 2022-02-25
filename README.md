@@ -1,15 +1,15 @@
-# Basic Sample Hardhat Project
+# APE Domain Service on Polygon L2
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+I build an Ape Name Service on Polygon L2 using Solidity, Hardhat, Node.js, JavaScipt, React, HTML and CSS.
 
-Try running some of the following tasks:
+Mint your own .ape domains and record information about your apes on the blockchain! How cool is that?!
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Not only that, click on the link to view your .ape domain NFTs on Open Sea.
+
+Want to change your ape's information? Fret not, click on the edit button and to begin editing.
+
+Check it out at this link:
+
+https://domain-service.vercel.app
+
+
