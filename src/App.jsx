@@ -179,7 +179,6 @@ try {
           };
         }));
 
-        console.log("MINTS FETCHED ", mintRecords);
         setMints(mintRecords);
       }
     } catch (error) {
@@ -327,7 +326,7 @@ try {
               <p className="subtitle"> The CHIMPion domain service on the blockchain!</p>
             </div>
             <div className="right">
-              <img alt="Network logo" className="logo" src={ network.includes("Polygon") ? polygonLogo : ethLogo} />
+              <img alt="Network logo" className="logo" src={network.includes("Polygon") ? polygonLogo : ethLogo} />
               { currentAccount ? <p> Wallet: {currentAccount.slice(0, 6)}...{currentAccount.slice(-4)} </p> : <p>Not connected  </p> }
             </div>
 					</header>

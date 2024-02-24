@@ -10,7 +10,6 @@ p {
 }
 
 .container {
-  height: 100%;
   background-image: url("../assets/Background@2x.jpg");
 /*   background-color: #181818; */
   display: flex;
